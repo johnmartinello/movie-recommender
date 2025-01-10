@@ -1,0 +1,9 @@
+pandas
+psycopg
+python-dotenv
+instructor
+sentence_transformers
+torch
+uvicorn
+fastapi
+pydantic

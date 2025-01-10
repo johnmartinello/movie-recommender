@@ -3,11 +3,8 @@ This project is a movie recommendation system that leverages vector embeddings a
 
 ## Website
 I made a website to showcase how this would look in a real product:
-"johnmartinello/movie-recommender
-<video width="600" controls>
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Movie Recommender](video.gif)
+
 
 ## Prerequisites
 Before you start, make sure you have the following installed:
